@@ -1,4 +1,4 @@
- [![MasterHead](https://miro.medium.com/v2/resize:fit:1192/1*jXusXvCfxECPU_Jh9S_E3w.jpeg)
+ [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*AgNY8fKVjHRppB8sEU_Vcw.jpeg)
 <h1 align="center">Hi 👋, I'm Beksultan</h1>
 <h3 align="center">A passionate React frontend developer from Kyrgyzstan</h3>
 
