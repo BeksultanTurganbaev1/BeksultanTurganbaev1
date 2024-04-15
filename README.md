@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beksultanturganbaev1&" alt="beksultanturganbaev1" /></p>
 
-![snake gif](https://github.com/BeksultanTurganbaev1/BeksultanTurganbaev1/blob/output/github-contribution-grid-snake.gif)
+
 
